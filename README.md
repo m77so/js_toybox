@@ -1,1 +1,3 @@
 # js_toybox
+
+JavaScriptで作ったおもちゃを入れておくリポジトリ
